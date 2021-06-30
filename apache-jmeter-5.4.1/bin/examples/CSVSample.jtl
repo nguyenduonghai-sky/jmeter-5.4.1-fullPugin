@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="123" lt="0" ts="1624880098613" s="true" lb="Login as u1" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="15"/>
+<sample t="252" lt="0" ts="1624880098745" s="true" lb="Action = none" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="0"/>
+<sample t="193" lt="0" ts="1624880099205" s="true" lb="Action a" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="12"/>
+<sample t="144" lt="0" ts="1624880099404" s="true" lb="Action b" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="12"/>
+<sample t="295" lt="0" ts="1624880099553" s="true" lb="Action c" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="12"/>
+<sample t="338" lt="0" ts="1624880099858" s="true" lb="Action d" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="12"/>
+<sample t="176" lt="0" ts="1624880100204" s="true" lb="Logout" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="13"/>
+<sample t="106" lt="0" ts="1624880100381" s="true" lb="Action = &lt;EOF&gt;" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="0"/>
+<sample t="212" lt="0" ts="1624880100487" s="true" lb="Login as u2" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="15"/>
+<sample t="169" lt="0" ts="1624880100699" s="true" lb="Action = none" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="0"/>
+<sample t="337" lt="0" ts="1624880100874" s="true" lb="Logout" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="13"/>
+<sample t="184" lt="0" ts="1624880101211" s="true" lb="Action = &lt;EOF&gt;" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="0"/>
+
+<sample t="149" lt="0" ts="1624880233028" s="true" lb="Login as u1" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="15"/>
+<sample t="304" lt="0" ts="1624880233189" s="true" lb="Action = none" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="0"/>
+<sample t="125" lt="0" ts="1624880233515" s="true" lb="Action a" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="12"/>
+<sample t="257" lt="0" ts="1624880233647" s="true" lb="Action b" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="12"/>
+<sample t="278" lt="0" ts="1624880233911" s="true" lb="Action c" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="12"/>
+<sample t="296" lt="0" ts="1624880234197" s="true" lb="Action d" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="12"/>
+<sample t="344" lt="0" ts="1624880234503" s="true" lb="Logout" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="13"/>
+<sample t="189" lt="0" ts="1624880234849" s="true" lb="Action = &lt;EOF&gt;" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="0"/>
+<sample t="123" lt="0" ts="1624880235038" s="true" lb="Login as u2" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="15"/>
+<sample t="246" lt="0" ts="1624880235161" s="true" lb="Action = none" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="0"/>
+<sample t="236" lt="0" ts="1624880235414" s="true" lb="Logout" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="13"/>
+<sample t="225" lt="0" ts="1624880235651" s="true" lb="Action = &lt;EOF&gt;" rc="200" rm="OK" tn="172.21.176.1:1234-Thread Group 1-1" dt="text" by="0"/>
+
+</testResults>
